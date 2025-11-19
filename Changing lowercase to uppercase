@@ -15,7 +15,8 @@ Output Format
 
 A single line in the format:
 
-The uppercase of {charLower} is {charUpper} */
+The uppercase of {charLower} is {charUpper} 
+---output should be "The uppercase of a is A" for the character a*/
 
 #include <stdio.h>
 #include <string.h>
